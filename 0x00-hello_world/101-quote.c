@@ -1,8 +1,9 @@
 #include<stdio.h>
+#include <unistd.h>
+
 /**
- *main-program entry point.
- *
- *Return:1 on success.
+ * main - prints exactly "and that piec of art is useful"
+ * Return: Always 0 (success)
  */
 int main(void)
 {
