@@ -1,10 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 
 /**
- *main-Serves as entry point for the program.
- *
- *return:By default returns zero if no errors otherwise return non-zero value.
- */
+ * main - the xontaininf func
+ * Return: 0 if succesful
+*/
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
