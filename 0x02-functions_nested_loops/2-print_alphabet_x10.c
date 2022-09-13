@@ -2,7 +2,7 @@
 
 /**
  * main - alphabet
- * Description: 'print a - z tentime'
+ * Description: 'print a - z tentime'.
  * print_alphabet_x10 - print a - z ten times
  */
 
