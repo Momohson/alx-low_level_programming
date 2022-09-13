@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - alphabet
- * Description: 'print a - z tentime'.
- * print_alphabet_x10 - print a - z ten times
+ * print_alphabet - print the lower case
+ *
+ *
+ * Return: voidd
  */
 
 void print_alphabet_x10(void)
