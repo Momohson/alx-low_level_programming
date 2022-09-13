@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - print_alphabet
- * Description: 'print a - z
+ * print_alphabet - Print a -z
+ *
  * Return: 0.
  */
 
