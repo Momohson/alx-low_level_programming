@@ -5,7 +5,7 @@
  * @n: the number to start counting from n
  * Return: Always 0.
  */
-void print_to_98(void)
+void print_to_98(int n)
 {
 	if (n < 98)
 	{
