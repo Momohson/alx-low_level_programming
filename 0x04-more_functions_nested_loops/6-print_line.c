@@ -3,6 +3,8 @@
 /**
  * print_line - prints line
  * @n: param
+ *
+ * Return: void
  */
 
 void print_line(int n)
