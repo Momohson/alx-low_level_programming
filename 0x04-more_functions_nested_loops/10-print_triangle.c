@@ -6,7 +6,7 @@
  * Return: 0
  */
 
-void print_trianglr(int size)
+void print_triangle(int size)
 {
 	int i = 0, j, n = size - 1;
 
