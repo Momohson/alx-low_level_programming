@@ -2,7 +2,9 @@
 
 /**
  * _puts - puts to stdout
+ *
  * @str - params
+ * Retunr: int
  */
 
 void _puts(char *str)
