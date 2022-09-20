@@ -15,7 +15,7 @@ void rev_string(char *s)
 	{
 		i++;
 	}
-	size = i -1;
+	size = i - 1;
 	half = size / 2;
 	while (half >= 0)
 	{
