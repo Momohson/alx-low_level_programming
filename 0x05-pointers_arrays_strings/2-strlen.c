@@ -1,19 +1,19 @@
 #include "main.h"
 
 /**
- * _puts - puts to stdout
- * @str: params
+ * _strlen - string lenght
+ * @s: params
+ * Return: int
  */
 
-void _puts(char *str)
+int _strlen(char *s)
 {
-	int i = 0;
+	int count = 0;
 
-	while (str[i] != '\0')
+	while (s[count] != '\0')
 	{
-		_putchar(str[i]);
-		i++;
+		count++;
 	}
 
-	_putchar('\n');
+	return (count);
 }
