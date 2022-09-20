@@ -1,6 +1,7 @@
 #include "main.h"
 
-/**_puts - puts to stdout
+/**
+ * _puts - puts to stdout
  * @str - params
  */
 
