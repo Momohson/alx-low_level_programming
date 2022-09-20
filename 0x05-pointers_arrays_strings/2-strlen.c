@@ -2,18 +2,16 @@
 
 /**
  * _strlen - string lenght
+ *
  * @s: params
  * Return: int
  */
 
 int _strlen(char *s)
 {
-	int count = 0;
+	int i;
 
-	while (s[count] != '\0')
-	{
-		count++;
-	}
-
-	return (count);
+	for (i = 0; s[i] != '\0'; i++)
+	{}
+	return (i);
 }
